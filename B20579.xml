@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The council-general of the Indian and African Company's petition to His Majesty.</title>
+            <author>Company of Scotland Trading to Africa and the Indies.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20579</idno>
+            <idno type="STC">Wing C5595</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[1]</idno>
+            <idno type="STC">ESTC R227661</idno>
+            <idno type="EEBO-CITATION">99887454</idno>
+            <idno type="PROQUEST">ocm99887454</idno>
+            <idno type="VID">190401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190401)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The council-general of the Indian and African Company's petition to His Majesty.</title>
+                  <author>Company of Scotland Trading to Africa and the Indies.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed: Edingurgh the 19th. day of October 1699.</note>
+                  <note>Includes the King's reply.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Darien (Panama and Colombia) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term>Colombia --  History --  To 1810 --  Early works to 1800.</term>
+               <term>New Caledonia (Colony) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:190401:1" rendition="simple:additions"/>
+            <head>The Council-General of the <hi>Indian</hi> and <hi>African</hi> Company's Petition to His Majeſty.</head>
+            <opener>
+               <salute>May it pleaſe Your Majeſty,</salute>
+            </opener>
+            <p>WE Your Majeſty's moſt dutiful Subjects, the Council-General of the Company of <hi>Scotland</hi> Trading to <hi>Africa</hi> and the <hi>Indies,</hi> do do in all Humble Duty beg leave to lay before Your Majeſty the preſent Condition of our Affairs.</p>
+            <p>Your Majeſty from an earneſt deſire of the Flouriſhing of your Ancient King<g ref="char:EOLhyphen"/>dom, having been graciouſly pleaſed by the 32 Act of the 4th. Seſſion, and by the 8th. Act of the 5th. Seſſion of this Current Parliament, and Your Majeſty's Let<g ref="char:EOLhyphen"/>ters Patent under the Great Seal of this Kingdom following thereupon, to Autho<g ref="char:EOLhyphen"/>rize <hi>the Settling of Plantations and Colonies in</hi> Aſia, Africa, <hi>or</hi> America, <hi>by the Natives of this Kingdom, and ſuch Others as ſhould joyn with them,</hi> as in the ſaid Acts of Parliament, and Letters Patent, is more particularly expreſs'd.</p>
+            <p>We and our Conſtituents, Your Majeſty's moſt Loyal Subjects did, upon the Faith and Encouragement of the ſaid Acts and Letters Patent, enter into a <hi>Socie<g ref="char:EOLhyphen"/>ty,</hi> Erect a <hi>Company of Trade,</hi> and with Great Charge, and after many Difficulties, ſettled a <hi>Plantation</hi> on the North-ſide of the <hi>Iſthmus</hi> of <hi>Darien,</hi> a Place preciſely in the Terms of the ſaid Acts of Parliament and Letters Patent.</p>
+            <p>And being Senſible, That as our Company had its Birth from Your Majeſty's moſt Gracious Favour, ſo it could not ſubſiſt but by your Royal Protection. We did therefore, in all humble Manner, Petition Your Majeſty's <hi>High Commiſ<g ref="char:EOLhyphen"/>ſioner</hi> and the <hi>Eſtates of Parliament,</hi> Aſſembled the 19th. of <hi>July</hi> 1698.</p>
+            <p>Upon which, The <hi>Eſtates of Parliament</hi> did, with great Unanimity Addreſs Your Majeſty, <hi>That you would in your Royal Wiſdom be pleaſed, to take ſuch Meaſures as might effectually Vindicat the undoubted Rights and Priviledges of the ſaid Com<g ref="char:EOLhyphen"/>pany, and ſupport the Credit and Intereſt thereof.</hi>
+            </p>
+            <p>That Seſſion of Parliament ending, before any Return could be had from Your Majeſty; Reports have been ſpread by the Enemies of our Settlement, as if our Company had not Your Majeſty's Protection: And as an Evidence thereof, That Proclamations have been Iſſued out in Your Majeſty's Name, by your Gover<g ref="char:EOLhyphen"/>nours in all the <hi>American</hi> Plantations, not only to Deprive our ſaid Company and Colony of the friendly Aſſiſtance that might Reaſonably have been expected from our Neighbour-Nation; But alſo, <hi>ſtrictly forbidding all Your Majeſty's Subjects, or Others within theſe Plantations, to enter into any Traffick or Commerce with the ſaid Colony, and that no Proviſions, Arms, Ammunition, or other Neceſſaries whatſo<g ref="char:EOLhyphen"/>ever, ſhould be Tranſported or Carried to them, either in their own Veſſels, or any o<g ref="char:EOLhyphen"/>ther Ship or Veſſel for their Uſe, and that under the outmoſt Pains, Penalties, and Forfeitures,</hi> mentioned in the ſaid Proclamations.</p>
+            <p>Which Proceedings we have but too much Reaſon to believe, have been of Fatal Conſequence to our Company and Colony, and conſequently to the Inte<g ref="char:EOLhyphen"/>reſt of all Your Majeſty's good Subjects in this, Kingdom. And we being fully Perſwaded, that nothing could be ſo Conducible for the Support of our ſaid Com<g ref="char:EOLhyphen"/>pany and Colony in our preſent Circumſtances, as ſome ſpecial Teſtimonies and Evidences of your Royal Protection.</p>
+            <pb facs="tcp:190401:2"/>
+            <p>We do therefore in all Humility and Earneſtneſs, beg of Your Majeſty's Father<g ref="char:EOLhyphen"/>ly Care of our ſaid Company in particular, and of the Nation in General, That <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Majeſty would be graciouſly pleaſed, to take off the Force and Effect of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſe Proclamations, which have been ſo Prejudicial to us, and to ſignify your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyal Pleaſure to the Governours of theſe your Plantations, that We may be ſup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lyed in the Common and Ordinary way of Commerce.</p>
+            <p>As alſo, That Your Majeſty may allow your Parliament to Meet at the Day appointed in <hi>November</hi> next, or as ſoon as poſſibly can be, that Your Majeſty may have the Advice and Aſſiſtance of the Great Council of this Nation, in ſuch a Weighty and General Concern, which we hope God will Bleſs with an Happy Iſſue to His Glory, the Honour of your Majeſty, the Credit of your Parliament, the Intereſt of the Nation, and the Good of our Company and Colony.</p>
+            <closer>
+               <dateline>
+                  <hi>Sign'd at</hi> Edinburgh <date>
+                     <hi>the</hi> 19th. <hi>Day of</hi> October 1699.</date> 
+                  <hi>In Name, Preſence, and by Order of the ſaid</hi> Council-General, by May it pleaſe Your MAJESTY,</dateline>
+               <signed>
+                  <hi>Your Majeſty's moſt Faithful, moſt Dutiful, moſt Humble, and moſt Obedient Subject and Servant</hi> BELHAVEN <hi>I. P. C. G.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To which His Majeſty was pleas'd to give the follow<g ref="char:EOLhyphen"/>ing Anſwer.</head>
+            <opener>
+               <signed>
+                  <hi>WILLIAM</hi> r.</signed>
+               <salute>RIght Truſty and Well-beloved, we Greet you Well. </salute>
+            </opener>
+            <p>Your Petition has been preſented to Us by Our Secretaries, and we do very much regret the loſs which that our Ancient Kingdom and the Company has lately ſuſtained: We will upon all Occaſions, Protect and Encourage the Trade of the Nation: And we will alſo take Care, that the Subjects of that our Kingdom, ſhall have the ſame freedom of Trade and Commerce with our <hi>Engliſh</hi> Plantations as ever they had formerly.</p>
+            <p>Our Current Parliament is Adjourn'd to the 5th. Day of <hi>March</hi> next, and we will Order that the Parliament ſhall Meet when we judge that the Good of the Nation does require it. </p>
+            <closer>
+               <salute>And ſo We bid you heartily Farewell.</salute>
+               <dateline>
+                  <hi>Given at our Court at</hi> Kenſingtoun <date>
+                     <hi>the</hi> 2d. <hi>day of</hi> November 1699. <hi>and of our Reign the</hi> 11th. <hi>Year.</hi>
+                  </date>
+               </dateline>
+               <signed>By His Majeſty's Command, <hi>SEAFIELD.</hi>
+               </signed>
+            </closer>
+            <trailer>
+               <hi>To our Right Truſty and Well-beloved, the Council-General of the Company of our Ancient Kingdom of</hi> Scotland, <hi>Trad<g ref="char:EOLhyphen"/>ing to</hi> Africa <hi>and the</hi> Indies.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
